@@ -1,6 +1,6 @@
-Lab1/Data/
-Lab1/.ipynb_checkpoints
-Lab2/.ipynb_checkpoints
-Lab2/MNIST_data/
-Lab2/log_files/
+NNonMNIST/Data/
+NNonMNIST/.ipynb_checkpoints
+NNonMNIST/.ipynb_checkpoints
+CNNonMNIST/MNIST_data/
+CNNonMNIST/log_files/
 
