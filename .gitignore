@@ -1,6 +1,6 @@
-NNonMNIST/Data/
-NNonMNIST/.ipynb_checkpoints/
-CNNonMNIST/.ipynb_checkpoints/
-CNNonMNIST/MNIST_data/
-CNNonMNIST/log_files/
+nn-on-mnist/Data/
+nn-on-mnist/.ipynb_checkpoints/
+cnn-on-mnist/.ipynb_checkpoints/
+cnn-on-mnist/MNIST_data/
+cnn-on-mnist/log_files/
 .Trash-0/
