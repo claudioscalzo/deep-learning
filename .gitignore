@@ -3,4 +3,7 @@ nn-on-mnist/.ipynb_checkpoints/
 cnn-on-mnist/.ipynb_checkpoints/
 cnn-on-mnist/MNIST_data/
 cnn-on-mnist/log_files/
+sentiment-analysis/.ipynb_checkpoints/
+sentiment-analysis/__pycache__/
+sentiment-analysis/models/
 .Trash-0/
